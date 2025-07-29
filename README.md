@@ -3,6 +3,7 @@
 A modern web-based implementation of the classic Flappy Bird game with enhanced graphics, multiple difficulty levels, dynamic day/night cycles, weather effects, and more.
 
 **Enjoy the game! If you have any issues or suggestions, please open an issue on GitHub(this repo).**
+
 ## Features
 
 - 🎮 Three difficulty modes (Easy, Moderate, Hardcore)
@@ -14,6 +15,8 @@ A modern web-based implementation of the classic Flappy Bird game with enhanced 
 - 📱 Responsive design that works on mobile and desktop
 - 🖥️ Fullscreen mode support
 - ✨ Beautiful visual effects and animations
+
+![Flappy Bird Gameplay Screenshot](https://github.com/user-attachments/assets/d0a6029f-d495-4b03-9c47-16b624db69e3)
 
 ## How to Play
 
