@@ -69,6 +69,6 @@ You can easily customize the game by editing the `flappy.html` file:
 
 ## Credits
 
-Developed with ❤️ by [EpicDestroyerOp](https://github.com/Epic-Destroye-Op)
+Developed with ❤️ by [EpicDestroyerOp](https://www.youtube.com/@EpicDestroyerOp)
 
 ---
